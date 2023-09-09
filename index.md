@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: Welcome to my BANANA
 ---
 
+# The spirit of BANANA
+# Education
+
+# Hongkong Jiao Tong University
